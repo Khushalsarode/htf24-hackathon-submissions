@@ -3,7 +3,7 @@
 ## GitHub handles of Team Members  
 - @khushalsarode
 - @vishakhasarode
-- 
+  
 ## Project Title
 VissiPass: An web app for Creating Dynamic Visitor Pass!
 
@@ -17,7 +17,7 @@ The idea behind VissiPass is to create a more organized and secure environment f
 ## Tech Stack    
 - **Frontend:** React.js
 - **Backend:** Appwrite 
-  - **Appwrite Services Used:** Storage, Auth, Messenger, Database
+  - **Appwrite Services Used:** Storage, Auth, Function(nodejs Runtime), Database
   - **Authentication:** Appwrite Autonomous Auth, OAuth2 (Google, GitHub)
 
 ## Project Repo  
